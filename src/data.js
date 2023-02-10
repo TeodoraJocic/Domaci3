@@ -1,11 +1,11 @@
 const menu = [
   {
-    // id: 1,
-    // title: 'Nugat torta',
-    // category: 'torte',
-    // price: 4000,
-    // img: './images/item-1.jpg',
-    // desc: `Kora od čokolade sa kremom od Nutele, prelivena mlečnom čokoladom. Težina torte je 2kg.`,
+    id: 1,
+    title: 'Nugat torta',
+    category: 'torte',
+    price: 4000,
+    img: './images/item-1.jpg',
+    desc: `Kora od čokolade sa kremom od Nutele, prelivena mlečnom čokoladom. Težina torte je 2kg.`,
   },
   {
     id: 2,
